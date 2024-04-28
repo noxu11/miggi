@@ -1,5 +1,5 @@
-##Im migu :> *bold text*
+##Im migu :> **bold text**
 --
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmodern-clothes%3Fsort%3Drelevant&psig=AOvVaw2Emg98fmBUCfzNvdzXrgwO&ust=1714350735108000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJio-rfV44UDFQAAAAAdAAAAABAE" height="385px" width ="385px" align="center">
+<img src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif height="385px" width ="385px" align="center">
 
 
